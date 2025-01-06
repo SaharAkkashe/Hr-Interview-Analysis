@@ -14,7 +14,7 @@ ________________________________________
 •	Geographical Analysis: Displays satisfaction trends across various locations where employees are based.  
 ________________________________________
 # Technology Stack
-•	Data Visualization: Power BI
-•	Version Control: GitHub
-•	Data Source: Internal employee interview data
+•	Data Visualization: Power BI  
+•	Version Control: GitHub  
+•	Data Source: Internal employee interview data  
 
